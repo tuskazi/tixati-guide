@@ -28,7 +28,23 @@ This disables the join/leave messages for a channel. It can be a bother to scrol
 /notify off
 
 Click the "Commands" button next to the chat input line to see what other commands are available. Different commands may be available depending on your level.
-==============================================================================
+================================================================================
+## Sharing in channels
+
+If you have something you'd like to share, you can put it in your share list so that others in the channel can find it. To access your share list click the "Share" button at the top. Then click the "Edit" button to start editing your share list. Click "Save Changes" when you're done. Here you can write anything you feel like, it's your own personal billboard. Pasting magnet links and web links here counts toward your total share count. Try to keep your list somewhat organized so that people can easily browse it.
+
+You can get magnet links from your own transfers and paste them into your share list. Just go to the "Transfers" window, right-click any of your transfers in the list, choose "Share" > "Copy Magnet Link" and then paste it into your share list.
+
+You don't actually need to be seeding the files to share the corresponding magnet link but it is courteous to do so, especially when that share has few peers.
+
+### Global and channel-specific shares
+
+The "Share" window shows your global share list, but you can also have channel-local share lists. In the "Channels" window choose a channel, click on the "Share" tab and you'll see the share list specific to that channel. By default, channel-local share lists are a mirror of your global share list, but you can edit them separately from the global share list. This is useful if you have some shares that are off-topic for a certain channel or only relevant for another channel.
+
+### Share list directives
+
+TODO
+================================================================================
 Useful Channel Links on Tixati:
 
 Books-Over 120000 ebooks over everything a-z
