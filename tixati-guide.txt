@@ -79,3 +79,5 @@ How the Search tab works:
 
 In here, you can search through all the magnet links in each channel you are connected to.  You can specify the channel by clicking on one in the top right, or just click on all channels to search them all.  Click on a magnet link to download that torrent.
 ======================================================================================
+Additional Information
+If you feel like adding additional info, please contact the authors
