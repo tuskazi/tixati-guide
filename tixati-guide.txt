@@ -43,7 +43,30 @@ The "Share" window shows your global share list, but you can also have channel-l
 
 ### Share list directives
 
-TODO
+There are special share list directives that can make managing your share list easier. For example you can add all your transfers to a share list with a single directive without having to manually copy all the magnet links to your share list. Or you can mirror all shares from one channel-local share list to another. Here follows a list of some share directives:
+
+##mirror:transfers
+This directive inserts all your current transfers where it occurs in the share list.
+
+##mirror:complete
+Shares complete transfers.
+
+##mirror:standby
+???
+
+##mirror:seeding
+Shares transfers that you're seeding.
+
+##mirror:downloading
+Shares transfers that are currently downloading.
+
+##mirror:queued
+???
+
+##mirror:offline
+Shares transfers that are stopped.
+
+TODO: add more directives
 ================================================================================
 Useful Channel Links on Tixati:
 
