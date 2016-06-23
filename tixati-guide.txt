@@ -1,4 +1,8 @@
-Tixati Useful Knowledge Guide               by: ShockEMP, Tuskazi
+Tixati Useful Knowledge Guide               by: ShockEMP, Tuskazi, YandereKate
+==================================================================
+About channel and quick start:
+
+Tixati channels is a P2P based chat that uses DHT to find channels and connect peers. To find channels that are advertising go to the top and find the add button and click on "Gather Channels". Double click on a channels to start it, if you changed what double clicking on a channel does then click on a channel and on the top click Start.
 ==================================================================
 How to get a channel:
 
